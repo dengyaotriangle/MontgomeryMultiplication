@@ -1,5 +1,5 @@
 # MontgomeryMultiplication
-32 and 64 bit montgomery multiplication in C++
+32 and 64 bit montgomery multiplication in C++, for competitive programming.
 
 ## Usage
 
