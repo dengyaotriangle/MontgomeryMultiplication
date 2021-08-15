@@ -9,4 +9,4 @@
 
 The modulus can be changed on the fly, with `montXX_t::setctx()`.
  
-`operator` `+` `-` `*` and convertion to and from an int and I/O is implemented.
+`operator` `+` `-` `*` `==` `!=` and convertion to and from an int and I/O is implemented.
